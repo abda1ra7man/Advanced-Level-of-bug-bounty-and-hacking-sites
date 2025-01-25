@@ -7,7 +7,7 @@
  
 - [Begainer Level & Basics](https://github.com/abda1ra7man/Advanced-Level-of-bug-bounty-and-hacking-sites/tree/main/1-Begainer%20Level%20%26%20Basics)  
 - [Sqli](https://github.com/abda1ra7man/Advanced-Level-of-bug-bounty-and-hacking-sites/tree/main/2-SQLi)  
-- [NOSQL injection](https://github.com/abda1ra7man/Advanced-Level-of-bug-bounty-and-hacking-sites/tree/main/2-SQLi)  
+- [NOSQL injection]([https://github.com/abda1ra7man/Advanced-Level-of-bug-bounty-and-hacking-sites/tree/main/2-SQLi](https://github.com/abda1ra7man/Advanced-Level-of-bug-bounty-and-hacking-sites/tree/main/NOSQL%20injuctin))  
 
 ---
 
