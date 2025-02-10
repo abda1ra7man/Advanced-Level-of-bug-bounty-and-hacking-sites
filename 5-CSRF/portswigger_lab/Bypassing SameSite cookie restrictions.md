@@ -229,5 +229,15 @@ OR
 
 
 ---
+```HTTP
+POST /my-account/change-email HTTP/2
+Host: 0a1d00b903d8557280f8219e00f300e4.web-security-academy.net
+Cookie: session=bc0hgNY5s0f6cj9I5COig9ahKxUeZ2ef
+
+email=abdalrahmanhamdy%40std.mans.ed.eg&submit=1
 ```
-```
+
+## ✅ بما ان الموقع بيستخدم 
+
+#### **1- هنجرب نتحايل في طلب GET نبعت POST :**  
+
