@@ -56,11 +56,12 @@ GET /api/books/mystery
 - استخدام **Burp Scanner** لفحص الـ API واكتشاف أي مستندات غير معلنة.
 - تصفح التطبيقات يدويًا باستخدام **Burp's browser**.
 - البحث عن مسارات قد تحتوي على المستندات، زي:
+ ```url
+/api
+/swagger/index.html
+/openapi.json
   ```
-  /api
-  /swagger/index.html
-  /openapi.json
-  ```
+
 
 لو لقيت مسار مرتبط بمصدر معين زي `/api/swagger/v1/users/123`، جرب مسارات مشابهة:
 ```
